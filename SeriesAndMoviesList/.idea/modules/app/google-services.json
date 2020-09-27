@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "934137643192",
+    "firebase_url": "https://seriesandmovieslist.firebaseio.com",
+    "project_id": "seriesandmovieslist",
+    "storage_bucket": "seriesandmovieslist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934137643192:android:cafe7e03d33d650bed344d",
+        "android_client_info": {
+          "package_name": "com.example.seriesandmovieslist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934137643192-q9qgmlfg4a9dhr6p208jfqss8m45t7hj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.seriesandmovieslist",
+            "certificate_hash": "c4143363953050067f9818b34693a6ec716c7304"
+          }
+        },
+        {
+          "client_id": "934137643192-kdn4o6ucsmmtmk3a0jisbs3kh4j8ak2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLHYUwdkeR1ETxGWlYt3zTQRLx5J_RZLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934137643192-kdn4o6ucsmmtmk3a0jisbs3kh4j8ak2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
